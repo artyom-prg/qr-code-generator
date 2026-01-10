@@ -1,4 +1,4 @@
-package com.qrcode.qr_code_generator;
+package com.qrcode;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
